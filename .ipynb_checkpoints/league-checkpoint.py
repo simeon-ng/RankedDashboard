@@ -2,7 +2,7 @@
 from riotwatcher import LolWatcher, ApiError
 import time
 
-lol_watcher = LolWatcher('RGAPI-4216b7a9-8fc6-4f1e-88ba-14d193e5e166')
+lol_watcher = LolWatcher('RGAPI-3ba3ae6a-e66f-42aa-af3f-a63d438f176c')
 my_region = 'na1'
 
 def getSummonerData(summonerName):
