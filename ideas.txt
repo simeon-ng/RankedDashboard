@@ -1,0 +1,5 @@
+Dashboard
+- Main page:
+    - Summoner info - w/l, wr, rank
+    - Rank trends/history/graph
+    
